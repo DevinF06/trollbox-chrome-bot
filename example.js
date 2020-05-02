@@ -1,4 +1,4 @@
-var test = "test"
+var test = "This is a test"
 
 function _getmsg(data) {
     data.nick = he.decode(data.nick)
